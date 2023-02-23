@@ -40,3 +40,9 @@ textarea {
   align-items: center;
   height: 100vh;
 }
+
+.center2 {
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+}
